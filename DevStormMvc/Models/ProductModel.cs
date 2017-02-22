@@ -10,7 +10,6 @@ namespace DevStormMvc.Models
     public class ProductModel
     {
         public int productId { get; set; }
-
         public string name { get; set; }
         public string brand { get; set; }
         public float price { get; set; }
