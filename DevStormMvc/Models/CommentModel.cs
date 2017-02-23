@@ -10,5 +10,6 @@ namespace DevStormMvc.Models
         public int commentId { get; set; }
         public DateTime date { get; set; }
         public string text { get; set; }
+       
     }
 }

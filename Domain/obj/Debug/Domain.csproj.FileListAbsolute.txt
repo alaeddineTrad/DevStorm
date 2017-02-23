@@ -8,3 +8,13 @@ C:\Users\Majd Letaief\Documents\Visual Studio 2015\Projects\DevStormMvc\Domain\b
 C:\Users\Majd Letaief\Documents\Visual Studio 2015\Projects\DevStormMvc\Domain\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Majd Letaief\Documents\Visual Studio 2015\Projects\DevStormMvc\Domain\obj\Debug\Domain.dll
 C:\Users\Majd Letaief\Documents\Visual Studio 2015\Projects\DevStormMvc\Domain\obj\Debug\Domain.pdb
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Domain\bin\Debug\Domain.dll.config
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Domain\bin\Debug\Domain.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Domain\bin\Debug\Domain.pdb
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Domain\bin\Debug\EntityFramework.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Domain\bin\Debug\EntityFramework.xml
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Domain\obj\Debug\Domain.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Domain\obj\Debug\Domain.pdb

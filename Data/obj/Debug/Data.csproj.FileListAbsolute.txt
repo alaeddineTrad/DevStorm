@@ -10,3 +10,15 @@ C:\Users\Majd Letaief\Documents\Visual Studio 2015\Projects\DevStormMvc\Data\bin
 C:\Users\Majd Letaief\Documents\Visual Studio 2015\Projects\DevStormMvc\Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Majd Letaief\Documents\Visual Studio 2015\Projects\DevStormMvc\Data\obj\Debug\Data.dll
 C:\Users\Majd Letaief\Documents\Visual Studio 2015\Projects\DevStormMvc\Data\obj\Debug\Data.pdb
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Data\bin\Debug\Data.dll.config
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Data\bin\Debug\Data.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Data\bin\Debug\Data.pdb
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Data\bin\Debug\Domain.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Data\bin\Debug\EntityFramework.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Data\bin\Debug\Domain.pdb
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Data\bin\Debug\EntityFramework.xml
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Data\obj\Debug\Data.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\Data\obj\Debug\Data.pdb

@@ -16,3 +16,21 @@ C:\Users\Majd Letaief\Documents\Visual Studio 2015\Projects\DevStormMvc\ConsoleA
 C:\Users\Majd Letaief\Documents\Visual Studio 2015\Projects\DevStormMvc\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 C:\Users\Majd Letaief\Documents\Visual Studio 2015\Projects\DevStormMvc\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Majd Letaief\Documents\Visual Studio 2015\Projects\DevStormMvc\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\Data.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\Domain.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\Services.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\ServicesSpec.dll
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\Data.pdb
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\Domain.pdb
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\ServicesSpec.pdb
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\Services.pdb
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\hakim\Documents\Visual Studio 2015\Projects\DevStorm\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
